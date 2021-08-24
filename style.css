@@ -18,6 +18,8 @@ footer ul li a {
     text-decoration: none;
    
 }
+
+
 #left-div {
     border-right: 6px solid rgb(216, 197, 90);
     border-left: 6px solid rgb(216, 197, 90);
@@ -33,6 +35,12 @@ footer ul li a {
 	-moz-background-size: cover;
 	-o-background-size: cover;
     background-size: cover ;
+}
+.alert h1 span{
+    margin-left: 4rem;
+}
+.alert h1 span:hover{
+   cursor: pointer;
 }
 #img {
     height: 60%;
@@ -115,4 +123,3 @@ footer div a:hover{
 	margin:1rem;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	font-size: 2rem
-}
